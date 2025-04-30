@@ -1,0 +1,5 @@
+2025-04-27 21:47:44,997 - api_server - INFO - Starting API server on 0.0.0.0:8080
+2025-04-27 21:49:41,476 - firewall_parser - INFO - Detected firewall type: unknown
+2025-04-27 21:49:41,477 - websockets.server - INFO - server listening on 0.0.0.0:8765
+2025-04-27 21:49:41,477 - websocket_server - INFO - WebSocket server started on 0.0.0.0:8765
+2025-04-27 22:09:53,565 - websocket_server - INFO - Received signal 2, shutting down...
